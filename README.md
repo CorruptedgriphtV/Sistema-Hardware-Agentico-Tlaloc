@@ -1,6 +1,6 @@
 # Sistema Hardware Agentico Tlaloc
 
-Ecosistema Mesoamericano de Precisión - Framework agrícola automatizado de Hardware in the Loop.
+Sistema de microclimas Mexicano de Precisión - Framework agrícola automatizado de Hardware in the Loop.
 
 ## Arquitectura Dual-Brain
 
